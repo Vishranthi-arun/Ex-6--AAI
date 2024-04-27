@@ -81,9 +81,8 @@ for sentence in sentences:
 
 <H3>Output</H3>
 
+![325065382-12c07d72-f4ec-4df6-8659-f177993d2812](https://github.com/Vishranthi-arun/Ex-6--AAI/assets/93427278/1bfe74ea-f34b-4d52-805c-bd1e0bdea867)
 
-![a](image.png)
-![a](image-1.png)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
